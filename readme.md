@@ -26,5 +26,7 @@ How illegal are we being?
 #Misc
 - About page also lists resources
     - thinkinghorror.net (etc.)
+    - giallolooks.tumblr.com (shall we contact?)
+  
 
 
