@@ -23,4 +23,8 @@ We're currently designing an app that recommends horror movies to you according 
 #Legality
 How illegal are we being?  
 
+#Misc
+- About page also lists resources
+    - thinkinghorror.net (etc.)
+
 
