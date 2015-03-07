@@ -1,6 +1,6 @@
 We're currently designing an app that recommends horror movies to you according to user-specified preferences.  
   
-##Development Stages 
+#Development Stages 
 0: Design/mockups  
 1: Build app infrastructure - unstyled UI (user sets filters), sql/node backend (?)  
 2: Style app  
