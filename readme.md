@@ -20,6 +20,10 @@ We're currently designing an app that recommends horror movies to you according 
 - remake
 - vamipirism/werewolfery/etc.  
 
+#UI ideas
+- skeuomorphic 
+- lemarchand's box, phantasm ball, cronos device ish thing
+
 #Legality
 How illegal are we being?  
 
