@@ -10,7 +10,7 @@
 ![Suspiria](inspo/suspiria4.gif)
 
 
-##Pallette Inspo
+##Palette Inspo
 
 ![Audition](inspo/audition.gif)
 
