@@ -30,7 +30,7 @@
 
 ![The Devil Rides Out](inspo/devil.jpg)
 
-![Perfume of the Lady in Black](inspo/perfume.jpg)
+![Perfume of the Lady in Black](inspo/perfume.png)
 
 
 ##Icons & Button Inspo
@@ -39,6 +39,6 @@
 
 ##Font Inspo
 
-![Alice Sweet Alice](inspo/jpg.jpg)
+![Alice Sweet Alice](inspo/sweet.jpg)
 
 ![Witchcraft](inspo/witchcraft.jpg)
