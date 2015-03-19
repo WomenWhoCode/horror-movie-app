@@ -11,7 +11,7 @@
   * monster/creature
      * werewolf (not sure whether to make a separate genre, or another flag)
      * vampire (same)
-  pandemic/disease/parasite (also could be flags under body horror)
+  * pandemic/disease/parasite (also could be flags under body horror)
   * sci-fi
   * slasher
   * torture porn
@@ -20,8 +20,8 @@
     * crime
     * giallo
     * I feel like there's a "descent into madness" trope that might 
-    fit here, and something I've been thinking about as far mental health
-    horror, not sure how to label or where it fits
+    fit here, and something I've been thinking about as far as mental 
+    health horror, not sure how to label or where it fits
   * musical (might just make this a flag: contains singing/choreography)
   * mockumentary/found footage
 
