@@ -2,11 +2,11 @@ We're currently designing an app that recommends horror movies to you according 
   
 #Development Stages 
 0: Design/mockups  
-1: mysql installation, db design based on alisen's spreadsheet
-2: pull TMDB data (depending on API, we may not have to use OpenRefine)
-32: UX design / wireframe
-4: nodejs
-5: psd - emberjs
+1: mysql installation, db design based on alisen's spreadsheet  
+2: pull TMDB data (depending on API, we may not have to use OpenRefine)  
+3: UX design / wireframe  
+4: nodejs  
+5: psd - emberjs  
 6: Extra Credit: Add wiki elements - user accounts, allow users to add db entries (depends on stage 1 decisions), add tags (independent of flagging)  
 
 #Attribute possibilities
