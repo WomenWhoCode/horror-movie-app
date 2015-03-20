@@ -10,6 +10,7 @@ We're currently designing an app that recommends horror movies to you according 
 6: Extra Credit: Add wiki elements - user accounts, allow users to add db entries (depends on stage 1 decisions), add tags (independent of flagging)  
 
 #Attribute possibilities
+[Attribute List](attr.md)
 - level of gore
 - (aesthetic attributes: fashion, music, set design, lighting)
 - death count
@@ -24,6 +25,7 @@ We're currently designing an app that recommends horror movies to you according 
 - vamipirism/werewolfery/etc.  
 
 #UI ideas
+[Inspiration Board](inspo.md)
 - skeuomorphic 
 - lemarchand's box, phantasm ball, cronos device ish thing
 
