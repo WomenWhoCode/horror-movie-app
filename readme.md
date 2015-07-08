@@ -13,7 +13,10 @@ We're currently designing an app that recommends horror movies to you according 
 #Versions
 
 - javascript
-- ios submodule
+- ios submodule [mobile/](mobile/)
+
+![wild girl](https://raw.githubusercontent.com/WomenWhoCode/horror-movie-app/master/inspo/hausu3.gif)
+
 
 #Attribute possibilities
 [Attribute List](attr.md)
