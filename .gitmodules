@@ -1,0 +1,3 @@
+[submodule "mobile/horror-movie-iOS-App"]
+	path = mobile/horror-movie-iOS-App
+	url = git@github.com:romyilano/horror-movie-iOS-App.git
